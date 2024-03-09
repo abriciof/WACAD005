@@ -1,1 +1,3 @@
 Esse arquivo foi adicionado pela página do repositório remoto.
+
+Texto da nova feature adicionado!
